@@ -2,7 +2,7 @@
 
 The sums of "$122,365.24", "$559.00", "$850,139.99", "$23,329.50" and "$566.27" does not equal $100,000,000.00. If run, the Verify Balance Totals feature will fail.
 
-If it did, the results would look like what is shown below:
+If the results actually passed, the results would look like what is shown below:
 
 ```
 Feature: Verify Balance Totals
